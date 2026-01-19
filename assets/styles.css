@@ -1,0 +1,19 @@
+body {
+    background-color: #f8f9fa;
+}
+
+header h1 {
+    font-weight: 700;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.message {
+    text-align: center;
+    font-size: 1.1rem;
+    color: #6c757d;
+    margin-top: 30px;
+}
